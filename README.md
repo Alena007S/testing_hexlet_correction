@@ -1,8 +1,8 @@
 ### Участие в open-source проекте:
 
-Протестировала проект Hexlet Correction по тест-кейсам в Allure.
+Протестировала проект Hexlet Correction по [тест-кейсам](https://github.com/Alena007S/testing_hexlet_correction/blob/main/Test-cases.pdf) в Allure.
 
-Исправила ошибки в уже написанных тест-кейсах, актуализировала их и добавила новые.
+Исправила ошибки в уже написанных [тест-кейсах](https://github.com/Alena007S/testing_hexlet_correction/blob/main/Test-cases.pdf), актуализировала их и добавила новые.
 
 Завела issues на найденные дефекты.
 
