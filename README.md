@@ -4,7 +4,7 @@
 
 Исправила ошибки в уже написанных [тест-кейсах](https://github.com/Alena007S/testing_hexlet_correction/blob/main/Test-cases.pdf), актуализировала их и добавила новые.
 
-Завела issues на найденные дефекты.
+Завела [issues](https://github.com/Alena007S/testing_hexlet_correction/blob/main/issues.yml) на найденные дефекты.
 
 Провела регрессионное тестирование по закрытым issues.
 
